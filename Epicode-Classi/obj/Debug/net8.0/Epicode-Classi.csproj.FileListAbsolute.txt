@@ -1,0 +1,14 @@
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\Epicode-Classi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\Epicode-Classi.AssemblyInfoInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\Epicode-Classi.AssemblyInfo.cs
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\Epicode-Classi.csproj.CoreCompileInputs.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\bin\Debug\net8.0\Epicode-Classi.exe
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\bin\Debug\net8.0\Epicode-Classi.deps.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\bin\Debug\net8.0\Epicode-Classi.runtimeconfig.json
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\bin\Debug\net8.0\Epicode-Classi.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\bin\Debug\net8.0\Epicode-Classi.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\Epicode-Classi.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\refint\Epicode-Classi.dll
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\Epicode-Classi.pdb
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\Epicode-Classi.genruntimeconfig.cache
+D:\AssistProject\EPICODE\C#-Microsofto VS2022\PrimaLezione\Epicode-Classi\Epicode-Classi\Epicode-Classi\obj\Debug\net8.0\ref\Epicode-Classi.dll
